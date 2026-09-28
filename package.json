@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/clamptext",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Clamp color text values and contrast-safe presentation helpers.",
+  "bin": {
+    "clamptext": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/clamptext.git"
+  },
+  "homepage": "https://theworker02.github.io/clamptext/",
+  "keywords": [
+    "clamp",
+    "text",
+    "color",
+    "cli",
+    "toolkit"
+  ]
+}
